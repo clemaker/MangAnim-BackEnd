@@ -17,6 +17,7 @@
         "symfony/framework-bundle": "5.2.*",
         "symfony/proxy-manager-bridge": "5.2.*",
         "symfony/requirements-checker": "^2.0",
+        "symfony/security-bundle": "5.2.*",
         "symfony/yaml": "5.2.*"
     },
     "config": {
